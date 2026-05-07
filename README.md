@@ -1,4 +1,4 @@
-# obtanium-tauri
+# obtanium-tauri (work in progress)
 Obtanium for ubuntu
 ### Installtion
 # 1. Install Rust (if you don't have it)
